@@ -1,7 +1,7 @@
 {
   "name": "@sennka/generate",
   "bin": {
-    "sgen": "./index.js"
+    "sgen": "index.js"
   },
   "main": "index.js",
   "version": "1.0.0",
@@ -17,5 +17,14 @@
     "inquirer": "^8.2.0",
     "ncp": "^2.0.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuusennka/generate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryuusennka/generate/issues"
+  },
+  "homepage": "https://github.com/ryuusennka/generate#readme"
 }
