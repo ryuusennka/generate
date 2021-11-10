@@ -1,0 +1,21 @@
+{
+  "name": "@sennka/generate",
+  "bin": {
+    "sgen": "./index.js"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "del": "^6.0.0",
+    "inquirer": "^8.2.0",
+    "ncp": "^2.0.0"
+  },
+  "license": "ISC"
+}
