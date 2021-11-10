@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ryuusennka <369563963@qq.com>",
   "dependencies": {
     "colors": "^1.4.0",
     "del": "^6.0.0",
